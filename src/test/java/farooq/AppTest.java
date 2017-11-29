@@ -1,4 +1,4 @@
-package DEMO;
+package farooq;
 
 import junit.framework.Test;
 import junit.framework.TestCase;
